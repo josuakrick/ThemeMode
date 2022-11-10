@@ -22,7 +22,7 @@ Este formulário foi desenvolvido apenas para a criação de um projeto com tema
 
 
 ## 🔖 Layout
-<img src="desktop-design.jpg">
+<img src="img/Captura%20de%20tela%202022-11-10%20192711.jpg">
 
 
 
